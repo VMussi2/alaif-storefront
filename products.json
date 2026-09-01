@@ -1,0 +1,897 @@
+{
+  "domain": "v01mih-rr.myshopify.com",
+  "products": [
+    {
+      "id": "8869521785031",
+      "card": "assets/hf/card-tee-white.jpg",
+      "title": "ALAIF Urban T-shirt",
+      "handle": "unisex-sorona-quick-dry-t-shirt",
+      "price": 25.0,
+      "colors": [
+        "White",
+        "Apricot",
+        "Olive Green",
+        "Coffee",
+        "Navy Blue",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/64e00107b4c4466ab388f463c18d16ea.png?v=1787428041",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/5bc539ec6eb043398b3f7b082920219a.png?v=1787428041",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/140c25e9172f4f40a025a60ffc6b6af8.png?v=1787428113",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/137339fa28e74546b5e9f5d0d974b079.png?v=1787428113",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/3e548bd0436049349b8d2d1145c3d015.png?v=1787428113",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/82dd471a6cf84007a3e11c4804402dbb.png?v=1787428113"
+      ],
+      "colorImages": {
+        "White": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/64e00107b4c4466ab388f463c18d16ea.png?v=1787428041",
+        "Apricot": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/5bc539ec6eb043398b3f7b082920219a.png?v=1787428041",
+        "Olive Green": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/140c25e9172f4f40a025a60ffc6b6af8.png?v=1787428113",
+        "Coffee": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/137339fa28e74546b5e9f5d0d974b079.png?v=1787428113",
+        "Navy Blue": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/3e548bd0436049349b8d2d1145c3d015.png?v=1787428113",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/82dd471a6cf84007a3e11c4804402dbb.png?v=1787428113"
+      },
+      "colorBacks": {
+        "White": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/cb0b4d3c8af0446da0c9656a3a5d02d0.png?v=1787428041",
+        "Apricot": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/707b1176fd6d4f498a29d485330b7ffb.png?v=1787428041",
+        "Olive Green": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/71d84136700643a39a880b3b4e8f90fb.png?v=1787428113",
+        "Coffee": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62311612a7de4c3cb644f4410e9671bb.png?v=1787428113",
+        "Navy Blue": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/705ffaaac2c540d7b1bd116f59a1f751.png?v=1787428113",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/8ff4954fa1994c23b5afb40028d9ec95.png?v=1787428113"
+      },
+      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/64e00107b4c4466ab388f463c18d16ea.png?v=1787428041",
+      "variants": [
+        {
+          "id": "47031306027207",
+          "color": "White",
+          "size": "S"
+        },
+        {
+          "id": "47031306059975",
+          "color": "White",
+          "size": "M"
+        },
+        {
+          "id": "47031306092743",
+          "color": "White",
+          "size": "L"
+        },
+        {
+          "id": "47031306125511",
+          "color": "White",
+          "size": "XL"
+        },
+        {
+          "id": "47031306158279",
+          "color": "White",
+          "size": "2XL"
+        },
+        {
+          "id": "47031306354887",
+          "color": "Apricot",
+          "size": "S"
+        },
+        {
+          "id": "47031306387655",
+          "color": "Apricot",
+          "size": "M"
+        },
+        {
+          "id": "47031306420423",
+          "color": "Apricot",
+          "size": "L"
+        },
+        {
+          "id": "47031306453191",
+          "color": "Apricot",
+          "size": "XL"
+        },
+        {
+          "id": "47031306485959",
+          "color": "Apricot",
+          "size": "2XL"
+        },
+        {
+          "id": "47032682152135",
+          "color": "Olive Green",
+          "size": "S"
+        },
+        {
+          "id": "47032682184903",
+          "color": "Olive Green",
+          "size": "M"
+        },
+        {
+          "id": "47032682217671",
+          "color": "Olive Green",
+          "size": "L"
+        },
+        {
+          "id": "47032682250439",
+          "color": "Olive Green",
+          "size": "XL"
+        },
+        {
+          "id": "47032682283207",
+          "color": "Olive Green",
+          "size": "2XL"
+        },
+        {
+          "id": "47032682643655",
+          "color": "Coffee",
+          "size": "S"
+        },
+        {
+          "id": "47032682676423",
+          "color": "Coffee",
+          "size": "M"
+        },
+        {
+          "id": "47032682709191",
+          "color": "Coffee",
+          "size": "L"
+        },
+        {
+          "id": "47032682741959",
+          "color": "Coffee",
+          "size": "XL"
+        },
+        {
+          "id": "47032682774727",
+          "color": "Coffee",
+          "size": "2XL"
+        },
+        {
+          "id": "47032682479815",
+          "color": "Navy Blue",
+          "size": "S"
+        },
+        {
+          "id": "47032682512583",
+          "color": "Navy Blue",
+          "size": "M"
+        },
+        {
+          "id": "47032682545351",
+          "color": "Navy Blue",
+          "size": "L"
+        },
+        {
+          "id": "47032682578119",
+          "color": "Navy Blue",
+          "size": "XL"
+        },
+        {
+          "id": "47032682610887",
+          "color": "Navy Blue",
+          "size": "2XL"
+        },
+        {
+          "id": "47032682315975",
+          "color": "Black",
+          "size": "S"
+        },
+        {
+          "id": "47032682348743",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "47032682381511",
+          "color": "Black",
+          "size": "L"
+        },
+        {
+          "id": "47032682414279",
+          "color": "Black",
+          "size": "XL"
+        },
+        {
+          "id": "47032682447047",
+          "color": "Black",
+          "size": "2XL"
+        }
+      ],
+      "colorHex": {
+        "White": "#ececec",
+        "Apricot": "#f5e7cd",
+        "Olive Green": "#5b5f3f",
+        "Coffee": "#4a3a30",
+        "Navy Blue": "#1e2532",
+        "Black": "#1b1b1b"
+      },
+      "note": "Heavyweight quick-dry cotton blend. Black logo on light, white on dark.",
+      "specs": {
+        "fabric": "55% cotton, 31% polyester, 14% lyocell",
+        "weight": "150 g/m² (4.4 oz/yd²)",
+        "thickness": "Thin",
+        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
+      },
+      "sizeGuide": {
+        "unit": "cm",
+        "cols": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "rows": [
+          [
+            "Length",
+            69,
+            71,
+            73,
+            75,
+            77
+          ],
+          [
+            "Shoulder",
+            51.5,
+            54,
+            56.5,
+            59,
+            61.5
+          ],
+          [
+            "Chest",
+            52,
+            54.5,
+            57,
+            59.5,
+            62
+          ],
+          [
+            "Sleeve",
+            23,
+            23.5,
+            24,
+            24.5,
+            25
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8869293129927",
+      "card": "assets/hf/card-hoodie.jpg",
+      "title": "ALAIF Essentials Hoodie",
+      "handle": "alaif-essentials-hoodie",
+      "price": 45.0,
+      "colors": [
+        "Black",
+        "Dull Red",
+        "Navy Blue",
+        "Dark Gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/6395d7edd4264d22979e419bc1ca5b76.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/44f3c071025a47aa8b7a090982897230.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62c890feb6914214a7da20713e8fff49.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/e36f6b768ae940daa31417cad6c92b27.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/6dd352d17dee4ed78ea9fa19c6da5109.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/4b7fee107885486ba84885f80ee96e61.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/10e0746556114697893d719c71b39172.png?v=1787335204",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/3c7386822a0f4c28bf9a0ad3050d3962.png?v=1787335204"
+      ],
+      "variants": [
+        {
+          "id": "47030084993223",
+          "color": "Dull Red",
+          "size": "S"
+        },
+        {
+          "id": "47030085025991",
+          "color": "Dull Red",
+          "size": "M"
+        },
+        {
+          "id": "47030085058759",
+          "color": "Dull Red",
+          "size": "L"
+        },
+        {
+          "id": "47030085091527",
+          "color": "Dull Red",
+          "size": "XL"
+        },
+        {
+          "id": "47030085124295",
+          "color": "Dull Red",
+          "size": "2XL"
+        },
+        {
+          "id": "47030085157063",
+          "color": "Black",
+          "size": "S"
+        },
+        {
+          "id": "47030085189831",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "47030085222599",
+          "color": "Black",
+          "size": "L"
+        },
+        {
+          "id": "47030085255367",
+          "color": "Black",
+          "size": "XL"
+        },
+        {
+          "id": "47030085288135",
+          "color": "Black",
+          "size": "2XL"
+        },
+        {
+          "id": "47030085320903",
+          "color": "Navy Blue",
+          "size": "S"
+        },
+        {
+          "id": "47030085353671",
+          "color": "Navy Blue",
+          "size": "M"
+        },
+        {
+          "id": "47030085386439",
+          "color": "Navy Blue",
+          "size": "L"
+        },
+        {
+          "id": "47030085419207",
+          "color": "Navy Blue",
+          "size": "XL"
+        },
+        {
+          "id": "47030085451975",
+          "color": "Navy Blue",
+          "size": "2XL"
+        },
+        {
+          "id": "47030085484743",
+          "color": "Dark Gray",
+          "size": "S"
+        },
+        {
+          "id": "47030085517511",
+          "color": "Dark Gray",
+          "size": "M"
+        },
+        {
+          "id": "47030085550279",
+          "color": "Dark Gray",
+          "size": "L"
+        },
+        {
+          "id": "47030085583047",
+          "color": "Dark Gray",
+          "size": "XL"
+        },
+        {
+          "id": "47030085615815",
+          "color": "Dark Gray",
+          "size": "2XL"
+        }
+      ],
+      "colorImages": {
+        "Dull Red": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/6dd352d17dee4ed78ea9fa19c6da5109.png?v=1787335204",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/6395d7edd4264d22979e419bc1ca5b76.png?v=1787335204",
+        "Navy Blue": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/10e0746556114697893d719c71b39172.png?v=1787335204",
+        "Dark Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62c890feb6914214a7da20713e8fff49.png?v=1787335204"
+      },
+      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/6395d7edd4264d22979e419bc1ca5b76.png?v=1787335204",
+      "colorBacks": {
+        "Dull Red": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/4b7fee107885486ba84885f80ee96e61.png?v=1787335204",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/44f3c071025a47aa8b7a090982897230.png?v=1787335204",
+        "Navy Blue": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/3c7386822a0f4c28bf9a0ad3050d3962.png?v=1787335204",
+        "Dark Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/e36f6b768ae940daa31417cad6c92b27.png?v=1787335204"
+      },
+      "note": "430g heavyweight fleece",
+      "colorHex": {
+        "Black": "#212022",
+        "Dull Red": "#62282f",
+        "Navy Blue": "#2e3344",
+        "Dark Gray": "#484b4d"
+      },
+      "specs": {
+        "fabric": "56% cotton, 44% polyester",
+        "weight": "430 g/m² (12.7 oz/yd²)",
+        "thickness": "Thick · heavyweight fleece",
+        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
+      },
+      "sizeGuide": {
+        "unit": "cm",
+        "cols": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "rows": [
+          [
+            "Length",
+            70,
+            72,
+            74,
+            76,
+            78
+          ],
+          [
+            "Shoulder",
+            64,
+            66,
+            68,
+            70,
+            72
+          ],
+          [
+            "Chest",
+            65,
+            67,
+            69,
+            71,
+            73
+          ],
+          [
+            "Sleeve",
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8869499306183",
+      "card": "assets/hf/card-perf-shorts.jpg",
+      "title": "Men’s Performance Shorts",
+      "handle": "mens-performance-shorts",
+      "price": "25.00",
+      "colors": [
+        "Pale Khaki",
+        "Black",
+        "Deep Teal"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/ce72d7825a2541a884808af7e9efa0b9.png?v=1787379079",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/5bea8abaac1a4b13824262db72351602.png?v=1787379078",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c33740fbfabd41659ae7235a55218cb9.png?v=1787379078",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/ccc5e38ec41f4badb11d99f0e16446c5.png?v=1787379078",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c820969dfb3d40749e5c978d6185e4ff.png?v=1787379078",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/77edd928a2454f5aa75a0e0600c17212.png?v=1787379078"
+      ],
+      "colorImages": {
+        "Pale Khaki": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c820969dfb3d40749e5c978d6185e4ff.png?v=1787379078",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/ce72d7825a2541a884808af7e9efa0b9.png?v=1787379079",
+        "Deep Teal": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c33740fbfabd41659ae7235a55218cb9.png?v=1787379078"
+      },
+      "colorBacks": {
+        "Pale Khaki": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/77edd928a2454f5aa75a0e0600c17212.png?v=1787379078",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/5bea8abaac1a4b13824262db72351602.png?v=1787379078",
+        "Deep Teal": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/ccc5e38ec41f4badb11d99f0e16446c5.png?v=1787379078"
+      },
+      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c820969dfb3d40749e5c978d6185e4ff.png?v=1787379078",
+      "variants": [
+        {
+          "id": "47031243604167",
+          "color": "Pale Khaki",
+          "size": "S"
+        },
+        {
+          "id": "47031243636935",
+          "color": "Pale Khaki",
+          "size": "M"
+        },
+        {
+          "id": "47031243669703",
+          "color": "Pale Khaki",
+          "size": "L"
+        },
+        {
+          "id": "47031243702471",
+          "color": "Pale Khaki",
+          "size": "XL"
+        },
+        {
+          "id": "47031243735239",
+          "color": "Pale Khaki",
+          "size": "2XL"
+        },
+        {
+          "id": "47031243440327",
+          "color": "Black",
+          "size": "S"
+        },
+        {
+          "id": "47031243473095",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "47031243505863",
+          "color": "Black",
+          "size": "L"
+        },
+        {
+          "id": "47031243538631",
+          "color": "Black",
+          "size": "XL"
+        },
+        {
+          "id": "47031243571399",
+          "color": "Black",
+          "size": "2XL"
+        },
+        {
+          "id": "47031243276487",
+          "color": "Deep Teal",
+          "size": "S"
+        },
+        {
+          "id": "47031243309255",
+          "color": "Deep Teal",
+          "size": "M"
+        },
+        {
+          "id": "47031243342023",
+          "color": "Deep Teal",
+          "size": "L"
+        },
+        {
+          "id": "47031243374791",
+          "color": "Deep Teal",
+          "size": "XL"
+        },
+        {
+          "id": "47031243407559",
+          "color": "Deep Teal",
+          "size": "2XL"
+        }
+      ],
+      "colorHex": {
+        "Pale Khaki": "#e5ded5",
+        "Black": "#1a1817",
+        "Deep Teal": "#0f3d43"
+      },
+      "specs": {
+        "fabric": "90% polyester, 10% spandex",
+        "weight": "180 g/m² (5.3 oz/yd²)",
+        "thickness": "Thin",
+        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
+      },
+      "sizeGuide": {
+        "unit": "cm",
+        "cols": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "rows": [
+          [
+            "Length",
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          [
+            "Waist",
+            35.5,
+            37.5,
+            39.5,
+            42.5,
+            45.5
+          ],
+          [
+            "Hip",
+            54,
+            57,
+            60,
+            64,
+            68
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8869296144583",
+      "card": "assets/hf/card-hoodie.jpg",
+      "title": "ALAIF Essentials",
+      "handle": "alaif-essentials",
+      "price": "45.00",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/263c991de887488d80299123f4e5b83c.png?v=1787335323",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/cfae59414db64a59adfe54bbec7b497e.png?v=1787335323"
+      ],
+      "variants": [
+        {
+          "id": "47030107963591",
+          "color": "Black",
+          "size": "S"
+        },
+        {
+          "id": "47030107996359",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "47030108029127",
+          "color": "Black",
+          "size": "L"
+        },
+        {
+          "id": "47030108061895",
+          "color": "Black",
+          "size": "XL"
+        },
+        {
+          "id": "47030108094663",
+          "color": "Black",
+          "size": "2XL"
+        }
+      ],
+      "colorImages": {
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/263c991de887488d80299123f4e5b83c.png?v=1787335323"
+      },
+      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/263c991de887488d80299123f4e5b83c.png?v=1787335323",
+      "colorBacks": {
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/cfae59414db64a59adfe54bbec7b497e.png?v=1787335323"
+      },
+      "colorHex": {
+        "Black": "#212022"
+      },
+      "specs": {
+        "fabric": "56% cotton, 44% polyester",
+        "weight": "430 g/m² (12.7 oz/yd²)",
+        "thickness": "Thick · heavyweight, hooded",
+        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
+      },
+      "sizeGuide": {
+        "unit": "cm",
+        "cols": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "rows": [
+          [
+            "Length",
+            70,
+            72,
+            74,
+            76,
+            78
+          ],
+          [
+            "Shoulder",
+            64,
+            66,
+            68,
+            70,
+            72
+          ],
+          [
+            "Chest",
+            65,
+            67,
+            69,
+            71,
+            73
+          ],
+          [
+            "Sleeve",
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8869287329991",
+      "card": "assets/hf/card-urban-shorts.jpg",
+      "title": "Men’s Urban Shorts",
+      "handle": "mens-urban-shorts",
+      "price": 20.0,
+      "colors": [
+        "Gray",
+        "Khaki",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c2fda9dced4b4422a9ae6e510debb05b.png?v=1787334994",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/d78a688cf22f4a34936d7dffe28602e3.png?v=1787334994",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/bb76cbc145a14cac94e7d238cf01b5b0.png?v=1787334994",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/a212265902414ad2be97b9dff32b68d3.png?v=1787334993",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/b8913eaab91f47c28695b2440b0c8284.png?v=1787334993",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/e8d3486dcdbd4b59bae72b7efb377160.png?v=1787334994"
+      ],
+      "variants": [
+        {
+          "id": "47030049472711",
+          "color": "Gray",
+          "size": "S"
+        },
+        {
+          "id": "47030049505479",
+          "color": "Gray",
+          "size": "M"
+        },
+        {
+          "id": "47030049538247",
+          "color": "Gray",
+          "size": "L"
+        },
+        {
+          "id": "47030049571015",
+          "color": "Gray",
+          "size": "XL"
+        },
+        {
+          "id": "47030049603783",
+          "color": "Gray",
+          "size": "2XL"
+        },
+        {
+          "id": "47030049636551",
+          "color": "Khaki",
+          "size": "S"
+        },
+        {
+          "id": "47030049669319",
+          "color": "Khaki",
+          "size": "M"
+        },
+        {
+          "id": "47030049702087",
+          "color": "Khaki",
+          "size": "L"
+        },
+        {
+          "id": "47030049734855",
+          "color": "Khaki",
+          "size": "XL"
+        },
+        {
+          "id": "47030049767623",
+          "color": "Khaki",
+          "size": "2XL"
+        },
+        {
+          "id": "47030049800391",
+          "color": "Black",
+          "size": "S"
+        },
+        {
+          "id": "47030049833159",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "47030049865927",
+          "color": "Black",
+          "size": "L"
+        },
+        {
+          "id": "47030049898695",
+          "color": "Black",
+          "size": "XL"
+        },
+        {
+          "id": "47030049931463",
+          "color": "Black",
+          "size": "2XL"
+        }
+      ],
+      "colorImages": {
+        "Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/bb76cbc145a14cac94e7d238cf01b5b0.png?v=1787334994",
+        "Khaki": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/b8913eaab91f47c28695b2440b0c8284.png?v=1787334993",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c2fda9dced4b4422a9ae6e510debb05b.png?v=1787334994"
+      },
+      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/bb76cbc145a14cac94e7d238cf01b5b0.png?v=1787334994",
+      "colorBacks": {
+        "Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/a212265902414ad2be97b9dff32b68d3.png?v=1787334993",
+        "Khaki": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/e8d3486dcdbd4b59bae72b7efb377160.png?v=1787334994",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/d78a688cf22f4a34936d7dffe28602e3.png?v=1787334994"
+      },
+      "colorHex": {
+        "Gray": "#6f746e",
+        "Khaki": "#9f997f",
+        "Black": "#151515"
+      },
+      "specs": {
+        "fabric": "77% nylon, 23% spandex",
+        "weight": "165 g/m² (4.9 oz/yd²)",
+        "thickness": "Thin",
+        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
+      },
+      "sizeGuide": {
+        "unit": "cm",
+        "cols": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "rows": [
+          [
+            "Length",
+            42.5,
+            43.5,
+            44.5,
+            45.5,
+            46.5
+          ],
+          [
+            "Waist",
+            33,
+            36,
+            39,
+            42,
+            45
+          ],
+          [
+            "Hip",
+            54,
+            57,
+            60,
+            64,
+            68
+          ]
+        ]
+      }
+    }
+  ]
+}
