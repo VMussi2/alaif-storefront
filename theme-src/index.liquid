@@ -1,0 +1,206 @@
+{% layout 'alaif' %}
+
+
+  <!-- ================= HEADER ================= -->
+  <header class="header" id="header">
+    <a href="#top" class="brandmark" aria-label="Alaif Cafe home"><img src="https://cdn.shopify.com/s/files/1/0804/6890/2087/files/alaif-logo.png?v=1787371060" alt="alaif" /><span class="brandmark__cafe">cafe</span></a>
+    <nav class="nav" aria-label="Primary">
+      <a href="#shop">Shop</a>
+      <a href="#story">Story</a>
+      <a href="#lookbook">Lookbook</a>
+    </nav>
+    <div class="header__cta">
+      <a href="/cart" class="header__bag" id="bagLink" aria-label="View cart">Bag&nbsp;<span id="bagCount">0</span></a>
+      <a href="#shop" class="btn btn--sm btn--solid">Shop the drop</a>
+    </div>
+  </header>
+
+  <!-- ================= HERO ================= -->
+  <section class="hero">
+    <!-- Optional brand video: drop assets/hero.mp4 + assets/hero-poster.jpg and app.js reveals it -->
+    <video class="hero__video" id="heroVideo" muted loop playsinline preload="none" style="display:none"></video>
+    <div class="hero__bg" aria-hidden="true"></div>
+    <div class="hero__scrim" aria-hidden="true"></div>
+
+    <div class="hero__inner">
+      <span class="tagline hero__tagline">Look good, play good</span>
+      <h1 class="hero__title">
+        <span>Court</span>
+        <span class="thin">to the</span>
+        <span>Streets</span>
+      </h1>
+      <p class="hero__sub">
+        Alaif is a way of looking at the world — keep it simple, keep it fun.
+        Coffee for every kind of day, from the court to the streets.
+      </p>
+      <div class="hero__actions">
+        <a href="#shop" class="btn btn--solid">Shop Drop 01</a>
+        <a href="#story" class="btn btn--ghost">Our story</a>
+      </div>
+    </div>
+
+    <div class="hero__scroll" aria-hidden="true"><span>Scroll</span><span>↓</span></div>
+  </section>
+
+  <!-- ================= MARQUEE ================= -->
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee__track" id="marquee">
+      <!-- duplicated in JS for seamless loop -->
+      <span>Look good, play good</span><span class="dot">✦</span>
+      <span>From the court to the streets</span><span class="dot">✦</span>
+      <span>Coffee for every kind of day</span><span class="dot">✦</span>
+      <span>Alaif Cafe · Miami · Est. 2025</span><span class="dot">✦</span>
+    </div>
+  </div>
+
+  <!-- ================= SHOP ================= -->
+  <section class="section" id="shop">
+    <div class="wrap">
+      <div class="section__head" data-reveal>
+        <div>
+          <p class="eyebrow">The collection</p>
+          <h2 class="section__title">Drop <span class="volt">01</span></h2>
+        </div>
+        <p class="card__meta" style="max-width:26ch">Heavyweight tees, hoodies &amp; shorts. Unisex fits, S–2XL.</p>
+      </div>
+
+      <div class="grid" id="productGrid" data-reveal>
+        <!-- rendered by app.js from products.json -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= STORY ================= -->
+  <section class="section story" id="story">
+    <div class="wrap">
+      <div class="story__grid">
+        <div class="story__copy" data-reveal>
+          <p class="eyebrow">Our story</p>
+          <span class="tagline" style="font-size:clamp(1rem,2.2vw,1.3rem);margin-bottom:.5rem">Look good, play good</span>
+          <h2>From the court<br>to the streets.</h2>
+          <p>
+            Alaif Cafe started in Miami over good coffee and good company. Black-and-white
+            by heart, playful by nature — a little cartoon, a little loud, always fun.
+          </p>
+          <p>
+            The fits carry that same energy: relaxed, characterful, made to move from the
+            court to the streets. Look good, play good — on and off the court.
+          </p>
+          <div class="story__stats">
+            <div class="stat"><b>Unisex</b><span>S – 2XL</span></div>
+            <div class="stat"><b>Drop 01</b><span>Out now</span></div>
+            <div class="stat"><b>'25</b><span>Miami, FL</span></div>
+          </div>
+        </div>
+        <div class="story__media" data-reveal style="--reveal-delay:120ms">
+          <img src="https://vmussi2.github.io/alaif-storefront/assets/hf/red-hoodie-valley.jpg" alt="alaif hoodie back print, mountain valley" loading="lazy" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= LIFESTYLE BAND ================= -->
+  <section class="band">
+    <div class="wrap band__inner">
+      <div class="band__head" data-reveal>
+        <span class="script">Coffee for every kind of day</span>
+      </div>
+      <div class="band__grid" data-reveal>
+        <figure class="band__photo"><img src="https://vmussi2.github.io/alaif-storefront/assets/hf/cafe-still.jpg" alt="alaif tee and espresso" loading="lazy" /></figure>
+        <figure class="band__photo"><img src="https://vmussi2.github.io/alaif-storefront/assets/hf/tee-nyc.jpg" alt="alaif tee, NYC" loading="lazy" /></figure>
+        <figure class="band__photo"><img src="https://vmussi2.github.io/alaif-storefront/assets/hf/hoodie-aspen.jpg" alt="alaif hoodie, Aspen cabin" loading="lazy" /></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= DOODLE RAIL (NY × Aspen) ================= -->
+  <div class="doodle-rail" aria-hidden="true">
+    <div class="wrap doodle-rail__row">
+      <span class="doodle" data-doodle="skyline"></span>
+      <span class="doodle" data-doodle="mountains"></span>
+      <span class="doodle" data-doodle="subway"></span>
+      <span class="doodle" data-doodle="snowboard"></span>
+      <span class="doodle" data-doodle="bridge"></span>
+      <span class="doodle" data-doodle="skis"></span>
+      <span class="doodle" data-doodle="trafficlight"></span>
+      <span class="doodle" data-doodle="goggles"></span>
+      <span class="doodle" data-doodle="pine"></span>
+      <span class="doodle" data-doodle="bear"></span>
+    </div>
+  </div>
+
+  <!-- ================= LOOKBOOK ================= -->
+  <section class="section" id="lookbook">
+    <div class="wrap">
+      <div class="section__head" data-reveal>
+        <div>
+          <p class="eyebrow">The range</p>
+          <h2 class="section__title">The <span class="volt">fit</span></h2>
+        </div>
+        <a href="#shop" class="btn btn--ghost btn--sm">View all</a>
+      </div>
+      <div class="lookbook__grid" id="rangeGrid" data-reveal>
+        <!-- filled by app.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= EMAIL CAPTURE ================= -->
+  <section class="signup" id="signup">
+    <div class="wrap signup__inner">
+      <div data-reveal>
+        <p class="eyebrow">The list</p>
+        <h2>Join the<br>fun.</h2>
+      </div>
+      <div data-reveal style="--reveal-delay:100ms">
+        <p style="margin-bottom:1.4rem">New drops and restocks land here first. No spam — just good fits and good times.</p>
+        <form class="form" id="signupForm" novalidate>
+          <input type="email" name="email" placeholder="you@email.com" aria-label="Email address" required />
+          <button type="submit" class="btn btn--solid">Notify me</button>
+        </form>
+        <p class="form__ok" id="signupOk" role="status" aria-live="polite"></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= FOOTER ================= -->
+  <footer class="footer">
+    <div class="wrap">
+      <div class="footer__top">
+        <div>
+          <div class="footer__brand"><img src="https://cdn.shopify.com/s/files/1/0804/6890/2087/files/alaif-logo.png?v=1787371060" alt="alaif" /><span class="footer__cafe">cafe</span></div>
+          <p class="card__meta" style="margin-top:.6rem;max-width:26ch">Look good, play good.<br>From the court to the streets. Miami · Est. 2025.</p>
+          <div class="illo footer__illo" data-illo="vec-02" aria-hidden="true"></div>
+        </div>
+        <div class="footer__cols">
+          <div class="footer__col">
+            <h4>Shop</h4>
+            <a href="#shop">Drop 01</a>
+            <a href="#shop">Hoodies</a>
+            <a href="#shop">Tees</a>
+            <a href="#shop">Shorts</a>
+          </div>
+          <div class="footer__col">
+            <h4>Info</h4>
+            <a href="#story">Story</a>
+            <a href="#lookbook">Lookbook</a>
+            <a href="#signup">Newsletter</a>
+          </div>
+          <div class="footer__col">
+            <h4>Social</h4>
+            <a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a>
+            <a href="#signup">Email</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <span>© <span id="year">2026</span> Alaif Cafe. All rights reserved.</span>
+        <span>Look good, play good · Miami, FL.</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- toast -->
+  <div class="toast" id="toast" role="status" aria-live="polite"><span class="dot"></span><span id="toastMsg">Added to bag</span></div>
+
+  
