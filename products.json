@@ -462,6 +462,183 @@
       }
     },
     {
+      "id": "8880348987591",
+      "card": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/72022d44bdee47248eb2cf375862665c.png?v=1788058954",
+      "title": "ALAIF Washed Tee",
+      "handle": "alaif-washed-oversize",
+      "price": 25.0,
+      "colors": [
+        "Pirate Gray",
+        "Dark Blue",
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/72022d44bdee47248eb2cf375862665c.png?v=1788058954",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/3cdb895295e04946be85b5cf3584fa90.png?v=1788058954",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/0c1105cd62254a39afe59a4addde3eb7.png?v=1788058953",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/4a0257372105471e919c39470f95d54f.png?v=1788058953",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62d9915a61684ff28971c3ef559ffd81.png?v=1788058953",
+        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/b85a334fa8c543c7a729c4f956c186f0.png?v=1788058953"
+      ],
+      "colorImages": {
+        "Pirate Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/72022d44bdee47248eb2cf375862665c.png?v=1788058954",
+        "Dark Blue": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/0c1105cd62254a39afe59a4addde3eb7.png?v=1788058953",
+        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62d9915a61684ff28971c3ef559ffd81.png?v=1788058953"
+      },
+      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62d9915a61684ff28971c3ef559ffd81.png?v=1788058953",
+      "variants": [
+        {
+          "id": "47066182451399",
+          "color": "Pirate Gray",
+          "size": "S"
+        },
+        {
+          "id": "47066182484167",
+          "color": "Pirate Gray",
+          "size": "M"
+        },
+        {
+          "id": "47066182516935",
+          "color": "Pirate Gray",
+          "size": "L"
+        },
+        {
+          "id": "47066182549703",
+          "color": "Pirate Gray",
+          "size": "XL"
+        },
+        {
+          "id": "47066182582471",
+          "color": "Pirate Gray",
+          "size": "2XL"
+        },
+        {
+          "id": "47066182648007",
+          "color": "Dark Blue",
+          "size": "S"
+        },
+        {
+          "id": "47066182680775",
+          "color": "Dark Blue",
+          "size": "M"
+        },
+        {
+          "id": "47066182713543",
+          "color": "Dark Blue",
+          "size": "L"
+        },
+        {
+          "id": "47066182746311",
+          "color": "Dark Blue",
+          "size": "XL"
+        },
+        {
+          "id": "47066182779079",
+          "color": "Dark Blue",
+          "size": "2XL"
+        },
+        {
+          "id": "47066182811847",
+          "color": "Black",
+          "size": "S"
+        },
+        {
+          "id": "47066182844615",
+          "color": "Black",
+          "size": "M"
+        },
+        {
+          "id": "47066182877383",
+          "color": "Black",
+          "size": "L"
+        },
+        {
+          "id": "47066182910151",
+          "color": "Black",
+          "size": "XL"
+        },
+        {
+          "id": "47066182942919",
+          "color": "Black",
+          "size": "2XL"
+        }
+      ],
+      "colorHex": {
+        "Pirate Gray": "#6c6f6d",
+        "Dark Blue": "#232c3a",
+        "Black": "#161616"
+      },
+      "note": "250g garment-washed heavyweight cotton. Oversized, drop-shoulder, lived-in.",
+      "specs": {
+        "fabric": "100% cotton",
+        "weight": "250 g/m² (7.4 oz/yd²)",
+        "thickness": "Thick · heavyweight, garment-washed",
+        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
+      },
+      "sizeGuide": {
+        "unit": "cm",
+        "cols": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "2XL"
+        ],
+        "rows": [
+          [
+            "Length",
+            70,
+            72,
+            74,
+            76,
+            78
+          ],
+          [
+            "Shoulder",
+            53,
+            55,
+            57,
+            59,
+            61
+          ],
+          [
+            "Chest",
+            56,
+            58,
+            60,
+            62,
+            64
+          ],
+          [
+            "Sleeve",
+            20.8,
+            21.5,
+            22.2,
+            22.9,
+            23.6
+          ]
+        ]
+      },
+      "type": "Tees",
+      "chips": [
+        {
+          "label": "250g washed cotton",
+          "sub": "Heavyweight"
+        },
+        {
+          "label": "Oversized fit",
+          "sub": "Drop-shoulder"
+        }
+      ]
+    },
+    {
       "id": "8869499306183",
       "card": "assets/hf/card-perf-shorts.jpg",
       "title": "Men’s Performance Shorts",
@@ -727,168 +904,6 @@
             55,
             56,
             57
-          ]
-        ]
-      }
-    },
-    {
-      "id": "8869287329991",
-      "card": "assets/hf/card-urban-shorts.jpg",
-      "title": "Men’s Urban Shorts",
-      "handle": "mens-urban-shorts",
-      "price": 20.0,
-      "colors": [
-        "Gray",
-        "Khaki",
-        "Black"
-      ],
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-      ],
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c2fda9dced4b4422a9ae6e510debb05b.png?v=1787334994",
-        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/d78a688cf22f4a34936d7dffe28602e3.png?v=1787334994",
-        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/bb76cbc145a14cac94e7d238cf01b5b0.png?v=1787334994",
-        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/a212265902414ad2be97b9dff32b68d3.png?v=1787334993",
-        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/b8913eaab91f47c28695b2440b0c8284.png?v=1787334993",
-        "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/e8d3486dcdbd4b59bae72b7efb377160.png?v=1787334994"
-      ],
-      "variants": [
-        {
-          "id": "47030049472711",
-          "color": "Gray",
-          "size": "S"
-        },
-        {
-          "id": "47030049505479",
-          "color": "Gray",
-          "size": "M"
-        },
-        {
-          "id": "47030049538247",
-          "color": "Gray",
-          "size": "L"
-        },
-        {
-          "id": "47030049571015",
-          "color": "Gray",
-          "size": "XL"
-        },
-        {
-          "id": "47030049603783",
-          "color": "Gray",
-          "size": "2XL"
-        },
-        {
-          "id": "47030049636551",
-          "color": "Khaki",
-          "size": "S"
-        },
-        {
-          "id": "47030049669319",
-          "color": "Khaki",
-          "size": "M"
-        },
-        {
-          "id": "47030049702087",
-          "color": "Khaki",
-          "size": "L"
-        },
-        {
-          "id": "47030049734855",
-          "color": "Khaki",
-          "size": "XL"
-        },
-        {
-          "id": "47030049767623",
-          "color": "Khaki",
-          "size": "2XL"
-        },
-        {
-          "id": "47030049800391",
-          "color": "Black",
-          "size": "S"
-        },
-        {
-          "id": "47030049833159",
-          "color": "Black",
-          "size": "M"
-        },
-        {
-          "id": "47030049865927",
-          "color": "Black",
-          "size": "L"
-        },
-        {
-          "id": "47030049898695",
-          "color": "Black",
-          "size": "XL"
-        },
-        {
-          "id": "47030049931463",
-          "color": "Black",
-          "size": "2XL"
-        }
-      ],
-      "colorImages": {
-        "Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/bb76cbc145a14cac94e7d238cf01b5b0.png?v=1787334994",
-        "Khaki": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/b8913eaab91f47c28695b2440b0c8284.png?v=1787334993",
-        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/c2fda9dced4b4422a9ae6e510debb05b.png?v=1787334994"
-      },
-      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/bb76cbc145a14cac94e7d238cf01b5b0.png?v=1787334994",
-      "colorBacks": {
-        "Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/a212265902414ad2be97b9dff32b68d3.png?v=1787334993",
-        "Khaki": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/e8d3486dcdbd4b59bae72b7efb377160.png?v=1787334994",
-        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/d78a688cf22f4a34936d7dffe28602e3.png?v=1787334994"
-      },
-      "colorHex": {
-        "Gray": "#6f746e",
-        "Khaki": "#9f997f",
-        "Black": "#151515"
-      },
-      "specs": {
-        "fabric": "77% nylon, 23% spandex",
-        "weight": "165 g/m² (4.9 oz/yd²)",
-        "thickness": "Thin",
-        "care": "Machine wash cold, gentle cycle · Do not bleach · Tumble dry low · Iron low, avoid the print · Do not dry clean"
-      },
-      "sizeGuide": {
-        "unit": "cm",
-        "cols": [
-          "S",
-          "M",
-          "L",
-          "XL",
-          "2XL"
-        ],
-        "rows": [
-          [
-            "Length",
-            42.5,
-            43.5,
-            44.5,
-            45.5,
-            46.5
-          ],
-          [
-            "Waist",
-            33,
-            36,
-            39,
-            42,
-            45
-          ],
-          [
-            "Hip",
-            54,
-            57,
-            60,
-            64,
-            68
           ]
         ]
       }
