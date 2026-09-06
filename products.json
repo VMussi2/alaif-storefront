@@ -463,7 +463,7 @@
     },
     {
       "id": "8880348987591",
-      "card": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/72022d44bdee47248eb2cf375862665c.png?v=1788058954",
+      "card": "assets/hf/gen/gen_washed_pirategray_flat_concrete.jpg",
       "title": "ALAIF Washed Tee",
       "handle": "alaif-washed-oversize",
       "price": 25.0,
@@ -488,11 +488,11 @@
         "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/b85a334fa8c543c7a729c4f956c186f0.png?v=1788058953"
       ],
       "colorImages": {
-        "Pirate Gray": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/72022d44bdee47248eb2cf375862665c.png?v=1788058954",
-        "Dark Blue": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/0c1105cd62254a39afe59a4addde3eb7.png?v=1788058953",
-        "Black": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62d9915a61684ff28971c3ef559ffd81.png?v=1788058953"
+        "Pirate Gray": "assets/hf/gen/gen_washed_pirategray_flat_concrete.jpg",
+        "Dark Blue": "assets/hf/gen/gen_washed_darkblue_flat_concrete.jpg",
+        "Black": "assets/hf/gen/gen_washed_black_flat_concrete.jpg"
       },
-      "hero": "https://cdn.shopify.com/s/files/1/0804/6890/2087/files/62d9915a61684ff28971c3ef559ffd81.png?v=1788058953",
+      "hero": "assets/hf/gen/gen_washed_pirategray_flat_concrete.jpg",
       "variants": [
         {
           "id": "47066182451399",
@@ -636,7 +636,12 @@
           "label": "Oversized fit",
           "sub": "Drop-shoulder"
         }
-      ]
+      ],
+      "colorBacks": {
+        "Pirate Gray": "assets/hf/gen/gen_washed_pirategray_back_concrete.jpg",
+        "Dark Blue": "assets/hf/gen/gen_washed_darkblue_back_concrete.jpg",
+        "Black": "assets/hf/gen/gen_washed_black_back_concrete.jpg"
+      }
     },
     {
       "id": "8869499306183",
